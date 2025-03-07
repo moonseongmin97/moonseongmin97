@@ -1,4 +1,4 @@
-# 👋 Hi, I'm seongmin! | 안녕하세요, 문성민 입니다!
+# 👋 Hi, I'm seongmin! | 안녕하세요, 성민 입니다!
 
 ## 🏆 About Me | 소개
 - 

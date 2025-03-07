@@ -45,5 +45,7 @@
 ---
 
 ## 📫 Contact | 연락처  
-- 📩 Email: wja04097@naver.com 
+- 📩 Email: wja04097@naver.com
+- 💼 site: http://myhopebridge.duckdns.org/
+- 🌐 Blog: //계획중
 

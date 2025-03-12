@@ -50,8 +50,24 @@
   **사용 기술:** Java, Spring Boot, JPA, MyBatis, PostgreSQL, Redis 
   
   **주요 기능:** 기본 로그인 , 조회 , 모금 결제(진행중) , 기부 현황, 영상 시청 , 채팅 등등
-  
+
+
+  🚀 Infrastructure & Deployment
+현재 프로젝트는 사용하지 않던 pc에서 Windows에서 Ubuntu로 마이그레이션하여, 보다 안정적이고 확장 가능한 환경을 구축하였습니다.
+
+OS**: Ubuntu 22.04 LTS (Self-hosted)  
+CPU**: Intel i7-8700  (4 Cores, 8 Threads, 3.40GHz, Turbo 3.8GHz)
+RAM**: 16GB DDR4  
+Storage**: 512GB NVMe SSD  
+Web Server: NGINX + Reverse Proxy
+Application: Spring Boot (Java) + React
+Database: PostgreSQL + Redis
+Authentication: JWT 기반 세션 관리 (Redis 활용)
+CI/CD: 자동화된 배포 파이프라인 구축 예정
 ---
+
+
+
 
 ## 📫 Contact | 연락처  
 - 📩 Email: wja04097@naver.com

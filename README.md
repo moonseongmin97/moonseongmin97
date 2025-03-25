@@ -63,7 +63,7 @@ Web Server: NGINX + Reverse Proxy
 Application: Spring Boot (Java) + React
 Database: PostgreSQL + Redis
 Authentication: JWT 기반 세션 관리 (Redis 활용)
-CI/CD: 자동화된 배포 파이프라인 구축 예정
+CI/CD: 자동화된 배포 파이프라인 구축 예정 (젠킨스)
 ---
 
 

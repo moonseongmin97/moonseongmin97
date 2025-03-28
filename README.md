@@ -35,21 +35,21 @@
   
 - **기술:** React
 - 
-  **주요 기능:** 기본 로그인 , 조회 , 모금 결제(진행중) , 기부 현황,  영상 시청 , 채팅 등등
+  **주요 기능:** 기본 로그인 , 조회 , 모금 결제(진행중) , 기부 현황,  영상 시청 , 채팅 등등 (테스트코드 추가 예정)
 
 ### 🔹 [Project Name 2](https://github.com/moonseongmin97/Donation-Project-Spring-Backend--)  
   **설명:** 기부 모금 대행 사이트 및 정보 제공 (백앤드)
   
   **사용 기술:** Java, Spring Boot, JPA, MyBatis, PostgreSQL, Redis 
   
-  **주요 기능:** 기본 로그인 , 조회 , 모금 결제(진행중) , 기부 현황,  영상 시청 , 채팅 등등
+  **주요 기능:** 기본 로그인 , 조회 , 모금 결제(진행중) , 기부 현황,  영상 시청 , 채팅 등등  (테스트코드 추가 예정)
 
 ### 🔹 [Project Name 3](https://github.com/moonseongmin97/Donation-Project-Spring-chatServer)
   **설명:** 기부 모금 대행 사이트 및 정보 제공 (채팅서버)
   
   **사용 기술:** Java, Spring Boot, JPA, MyBatis, PostgreSQL, Redis 
   
-  **주요 기능:** 기본 로그인 , 조회 , 모금 결제(진행중) , 기부 현황, 영상 시청 , 채팅 등등
+  **주요 기능:** 기본 로그인 , 조회 , 모금 결제(진행중) , 기부 현황, 영상 시청 , 채팅 등등 (테스트코드 추가 예정)
 
 
   🚀 Infrastructure & Deployment

@@ -72,5 +72,5 @@ CI/CD: 자동화된 배포 파이프라인 구축 예정 (젠킨스)
 ## 📫 Contact | 연락처  
 - 📩 Email: wja04097@naver.com
 - 💼 site: http://myhopebridge.duckdns.org/
-- 🌐 Blog: //계획중
+- 🌐 Blog: (https://moon-97.tistory.com/)
 

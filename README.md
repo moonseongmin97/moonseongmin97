@@ -4,8 +4,9 @@
 - 
   **현재는 확장성과 효율성을 고려한 서비스 개발에 관심이 많습니다.**
   ++ 현재 집에서 안쓰는 컴퓨터 os 우분투로 변경하여 사이드 프로젝트 서버로 진행중...
+  ++ 최근에는 CS 공부에 집중하고 있습니다. 블로그 놀러와주세요!!!
   **앞으로 AI 기술을 웹 서비스에 적용하는 방법도 노력 중입니다.**  
-
+  
 ---
 
 ## 🛠 Tech Stack | 기술 스택  
@@ -64,6 +65,7 @@ Application: Spring Boot (Java) + React
 Database: PostgreSQL + Redis
 Authentication: JWT 기반 세션 관리 (Redis 활용)
 CI/CD: 자동화된 배포 파이프라인 구축 예정 (젠킨스)
+
 ---
 
 
